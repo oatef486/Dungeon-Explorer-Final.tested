@@ -2,12 +2,6 @@
 the Dungeon Explorere game logic
 """
 
-# TODO: Dragon shooting fireballs
-# TODO: get rid of key repeat
-# TODO: collect all coins to exit level and defeat all monsters
-# TODO: add a bag for collecting coins
-# TODO: show contents of bag
-
 from textwrap import wrap
 from pydantic import BaseModel
 from levels import LEVELS
